@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-<!--
 I'm JRB.Atnas 
 
 🎓 B.Sc. in Information Technology Student
@@ -21,4 +19,4 @@ and software development.
 - Improve my IT skills
 
 ⭐ Thank you for visiting my profile!
--->
+
