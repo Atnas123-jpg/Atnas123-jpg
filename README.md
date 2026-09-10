@@ -1,16 +1,24 @@
 ## Hi there 👋
 
+
 <!--
-**Atnas123-jpg/Atnas123-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm JRB.Atnas 
 
-Here are some ideas to get you started:
+🎓 B.Sc. in Information Technology Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Currently learning:
+- Java
+- HTML
+- GitHub
+
+📚 I am currently starting my journey in programming
+and software development.
+
+🎯 My Goals:
+- Improve my Java skills
+- Learn web development
+- Build my first software projects
+- Improve my IT skills
+
+⭐ Thank you for visiting my profile!
 -->
