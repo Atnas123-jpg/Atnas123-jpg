@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-#I'm JRB.Atnas 
+I'm JRB.Atnas 
 
 🎓 B.Sc. in Information Technology Student
 
-##🌱 Currently learning:
+🌱 Currently learning:
 - Java
 - HTML
 - GitHub
