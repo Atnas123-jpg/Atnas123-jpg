@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there!
 
-<!--
-**Atnas123-jpg/Atnas123-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **JRB.Atnas** 👋
 
-Here are some ideas to get you started:
+🎓 **B.Sc. in Information Technology Student**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨Welcome to my GitHub profile! 🚀
+
+## 👨‍💻 About Me
+
+🎓 BSc IT Student at **The Open University of Sri Lanka**
+
+I enjoy building simple projects to practice my programming skills and gain practical experience.
+
+📚 I am always interested in learning new technologies and improving my skills step by step.
+
+🌱 **Currently Learning:**
+
+- ☕ Java
+- 🌐 HTML
+- 🌐 Web Development
+- 🐙 Git & GitHub
+- 📚 Data Structures and Algorithms
+- 💻 Software Engineering
+
+🎯 **My Goals:**
+
+- Improve my programming skills
+- Learn more about Java and HTML
+- Improve my IT knowledge
+- Learn new technologies
+- Continue developing my skills
+
+## 🚀 Projects
+
+### 🎮 Rock Paper Scissors
+
+A simple game developed using **Java and HTML**.
+
+## ⭐ Thank You!
+
+Thank you for visiting my GitHub profile! 🚀
